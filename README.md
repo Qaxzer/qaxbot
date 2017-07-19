@@ -42,6 +42,7 @@ You'll also have to configure the access for the twitch api toward the end of th
 Before running the bot you may want to customize him a little as this is just a template one, i tried to made the code as readable as possible. I haven't comment a lot so my be difficult for a novice, but most of the code is simple and self explanatory.
 
 Once it's done open up a terminal and just type `node mybot.js`, if everything works as intended you should see something like that.
+
 ![Screen of Terminal](http://www.kirikoo.net/images/14Anonyme-20170719-181538.png)
 
 
