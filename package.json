@@ -1,0 +1,30 @@
+{
+  "name": "Qaxbot",
+  "version": "0.1.1",
+  "description": "An other twitch moderation bot.",
+  "homepage": "qaxzer.fr.nf",
+  "bugs": {
+    "url": "https://github.com/owner/project/issues",
+    "email": "project@hostname.com"
+  },
+  "keywords": [
+    "Twitch",
+    "Bot",
+    "Javascript",
+    "tmi"
+  ],
+  "author": {
+    "name": "Tony Qaxzer",
+    "email": "qaxzer@gmail.com"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mongoose": "^4.9.5",
+    "node-notifier": "^5.1.2",
+    "tmi.js": "^1.2.0"
+  },
+  "devDependencies": {},
+  "main": "qaxbot.js",
+  "man": "./man/doc.1",
+  "private": "true"
+}
